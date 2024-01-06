@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "F:/PROGRAMING HERO"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my-simple-website"
+	}
+}
